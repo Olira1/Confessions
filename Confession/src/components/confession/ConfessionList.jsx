@@ -45,7 +45,7 @@ const ConfessionList = () => {
             />
           </svg>
           <h3 className="text-lg font-medium text-gray-900 mb-2">
-            fix: sanitize markdown input in confession body
+            remove accidental hardcoded API keys
           </h3>
           <p className="text-gray-600">
             Be the first to share an anonymous confession!
