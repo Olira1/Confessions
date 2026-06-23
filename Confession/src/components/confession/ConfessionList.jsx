@@ -45,7 +45,7 @@ const ConfessionList = () => {
             />
           </svg>
           <h3 className="text-lg font-medium text-gray-900 mb-2">
-            update .gitignore to ignore .env secrets
+            implement user authentication for confession edits
           </h3>
           <p className="text-gray-600">
             Be the first to share an anonymous confession!
