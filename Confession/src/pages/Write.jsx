@@ -8,7 +8,7 @@ const Write = () => {
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
             Set up base routes and controllers for confessions and user
-            interactions.
+            .
           </h1>
           <p className="text-gray-600">Share your thoughts anonymously</p>
         </div>
