@@ -7,8 +7,8 @@ const Write = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
-            Create the main feed UI to display anonymous confessions in a
-            masonry or card layout.
+            Implement responsive header, dark/light mode toggle, and category
+            filtering.
           </h1>
           <p className="text-gray-600">Share your thoughts anonymously</p>
         </div>
