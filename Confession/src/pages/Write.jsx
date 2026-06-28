@@ -7,7 +7,8 @@ const Write = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
-            Implement API routes to create, read
+            Implement endpoints for anonymous reactions (e.g., likes, hearts)
+            and reporting.
           </h1>
           <p className="text-gray-600">Share your thoughts anonymously</p>
         </div>
