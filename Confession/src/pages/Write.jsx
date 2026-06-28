@@ -7,7 +7,8 @@ const Write = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
-            Implement endpoints for anonymous reactions
+            Add profanity filter and admin flag endpoints to keep the platform
+            safe
           </h1>
           <p className="text-gray-600">Share your thoughts anonymously</p>
         </div>
